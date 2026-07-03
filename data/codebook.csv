@@ -1,0 +1,374 @@
+question_id,option_id,option_label,is_missing
+2024-037_q1,1,Complete confidence,false
+2024-037_q1,2,Some confidence,false
+2024-037_q1,3,Little confidence,false
+2024-037_q1,4,No confidence,false
+2024-037_q1,5,Not sure,false
+2024-037_q10,1,"Yes, all are welcome (Jewish, Muslim, and Christian).",false
+2024-037_q10,2,"Yes, but only Jewish refugees.",false
+2024-037_q10,3,"Yes, but only Muslim refugees.",false
+2024-037_q10,4,"Yes, but only Christian refugees.",false
+2024-037_q10,5,"No, the U.S. should not be held responsible for displaced people from the region.",false
+2024-037_q11,1,Feedback/Input from Constituents,false
+2024-037_q11,2,Feedback/Input from Lobbyist and Interest Groups,false
+2024-037_q11,3,Feedback/Input from Media,false
+2024-037_q11,4,Feedback/Input from a Political Party,false
+2024-037_q11,5,Their own opinion,false
+2024-037_q11,6,Feedback/Input from Others,false
+2024-037_q11,7,Other,false
+2024-037_q11,8,None of the above,false
+2024-037_q12,1,"Yes, Pre OIF (Operation Iraqi Freedom) and OEF (Operation Enduring Freedom)",false
+2024-037_q12,2,"Yes, OIF (Operation Iraqi Freedom)",false
+2024-037_q12,3,"Yes, OEF (Operation Enduring Freedom)",false
+2024-037_q12,4,"Yes, Post OIF (Operation Iraqi Freedom) and OEF (Operation Enduring Freedom)",false
+2024-037_q12,5,"No, I have not served in combat",false
+2024-037_q13,1,Support,false
+2024-037_q13,2,Oppose,false
+2024-037_q13,3,I don't know,false
+2024-037_q14,1,Support a minor political party,false
+2024-037_q14,2,"Support no political party (a ""true"" independent)",false
+2024-037_q14,3,Consider yourself a Republican or Democrat but won’t admit it,false
+2024-037_q14,4,Other,false
+2024-037_q14,5,I am not an Independent,false
+2024-037_q15,1,1 - Very Weak,false
+2024-037_q15,2,2 - Weak,false
+2024-037_q15,3,3 - Neither Powerful nor Weak,false
+2024-037_q15,4,4 - Powerful,false
+2024-037_q15,5,5 - Very Powerful,false
+2024-037_q17,1,More well off than your neighbors,false
+2024-037_q17,2,About equally well off as your neighbors,false
+2024-037_q17,3,Less well off than your neighbors,false
+2024-037_q17,4,Don’t know,false
+2024-037_q18,1,Very concerned,false
+2024-037_q18,2,Somewhat concerned,false
+2024-037_q18,3,Not very concerned,false
+2024-037_q18,4,Not at all concerned,false
+2024-037_q19,1,Medicare,false
+2024-037_q19,2,Social Security,false
+2024-037_q19,3,Both programs will exhaust their funds within the same year,false
+2024-037_q2,1,Strongly favor policies that prohibit gender-affirming care,false
+2024-037_q2,2,Favor policies that prohibit gender-affirming care,false
+2024-037_q2,3,Oppose policies that prohibit gender-affirming care,false
+2024-037_q2,4,Strongly oppose policies that prohibit gender-affirming care,false
+2024-037_q21,1,Democrats have produced the majority of political misinformation,false
+2024-037_q21,2,Republicans have produced the majority of political misinformation,false
+2024-037_q21,3,Democrats and Republicans have produced roughly an equal amount of political misinformation,false
+2024-037_q21,4,Most political misinformation has been produced by non-partisan entities (neither Democrat nor Republican),false
+2024-037_q23,1,Yes - I’m in favor of the removal,false
+2024-037_q23,2,No - race and gender should be considered in an effort to diversify institutions,false
+2024-037_q23,3,I’m uncertain of my opinion on this policy issue,false
+2024-037_q24,1,Strongly agree,false
+2024-037_q24,2,Agree,false
+2024-037_q24,3,Neither agree nor disagree,false
+2024-037_q24,4,Disagree,false
+2024-037_q24,5,Strongly disagree,false
+2024-037_q26,1,Social Media,false
+2024-037_q26,2,Broadcast Television,false
+2024-037_q26,3,Newspapers and/or Magazines,false
+2024-037_q26,4,Radio,false
+2024-037_q26,5,Cable Television,false
+2024-037_q26,6,Podcasts,false
+2024-037_q26,7,Other,false
+2024-037_q26,8,None of the above,false
+2024-037_q27,1,Not at all worried,false
+2024-037_q27,2,A little worried,false
+2024-037_q27,3,Somewhat worried,false
+2024-037_q27,4,Very worried,false
+2024-037_q27,5,Extremely worried,false
+2024-037_q27,6,I am not currently employed,false
+2024-037_q28,1,Synthetic rubber produced in factories,false
+2024-037_q28,2,Natural rubber harvested from trees,false
+2024-037_q28,3,A combination of natural and synthetic rubber,false
+2024-037_q28,4,I am not sure,false
+2024-037_q29_q30_1,1,1 - Strongly Disagree,false
+2024-037_q29_q30_1,2,2 - Disagree,false
+2024-037_q29_q30_1,3,3 - Neither Agree nor Disagree,false
+2024-037_q29_q30_1,4,4 - Agree,false
+2024-037_q29_q30_1,5,5 - Strongly Agree,false
+2024-037_q29_q30_2,1,1 - Strongly Disagree,false
+2024-037_q29_q30_2,2,2 - Disagree,false
+2024-037_q29_q30_2,3,3 - Neither Agree nor Disagree,false
+2024-037_q29_q30_2,4,4 - Agree,false
+2024-037_q29_q30_2,5,5 - Strongly Agree,false
+2024-037_q3,1,Strongly agree,false
+2024-037_q3,2,Somewhat agree,false
+2024-037_q3,3,Neither agree nor disagree,false
+2024-037_q3,4,Somewhat disagree,false
+2024-037_q3,5,Strongly disagree,false
+2024-037_q31_q34_q81_q22_1,1,1 - Very Unlikely,false
+2024-037_q31_q34_q81_q22_1,2,2 - Unlikely,false
+2024-037_q31_q34_q81_q22_1,3,3 - Neither Likely nor Unlikely,false
+2024-037_q31_q34_q81_q22_1,4,4 - Likely,false
+2024-037_q31_q34_q81_q22_1,5,5 - Very Likely,false
+2024-037_q31_q34_q81_q22_2,1,1 - Very Unlikely,false
+2024-037_q31_q34_q81_q22_2,2,2 - Unlikely,false
+2024-037_q31_q34_q81_q22_2,3,3 - Neither Likely nor Unlikely,false
+2024-037_q31_q34_q81_q22_2,4,4 - Likely,false
+2024-037_q31_q34_q81_q22_2,5,5 - Very Likely,false
+2024-037_q31_q34_q81_q22_3,1,1 - Very Unlikely,false
+2024-037_q31_q34_q81_q22_3,2,2 - Unlikely,false
+2024-037_q31_q34_q81_q22_3,3,3 - Neither Likely nor Unlikely,false
+2024-037_q31_q34_q81_q22_3,4,4 - Likely,false
+2024-037_q31_q34_q81_q22_3,5,5 - Very Likely,false
+2024-037_q31_q34_q81_q22_4,1,1 - Very Unlikely,false
+2024-037_q31_q34_q81_q22_4,2,2 - Unlikely,false
+2024-037_q31_q34_q81_q22_4,3,3 - Neither Likely nor Unlikely,false
+2024-037_q31_q34_q81_q22_4,4,4 - Likely,false
+2024-037_q31_q34_q81_q22_4,5,5 - Very Likely,false
+2024-037_q31_q34_q81_q22_5,1,1 - Very Unlikely,false
+2024-037_q31_q34_q81_q22_5,2,2 - Unlikely,false
+2024-037_q31_q34_q81_q22_5,3,3 - Neither Likely nor Unlikely,false
+2024-037_q31_q34_q81_q22_5,4,4 - Likely,false
+2024-037_q31_q34_q81_q22_5,5,5 - Very Likely,false
+2024-037_q31_q34_q81_q22_6,1,1 - Very Unlikely,false
+2024-037_q31_q34_q81_q22_6,2,2 - Unlikely,false
+2024-037_q31_q34_q81_q22_6,3,3 - Neither Likely nor Unlikely,false
+2024-037_q31_q34_q81_q22_6,4,4 - Likely,false
+2024-037_q31_q34_q81_q22_6,5,5 - Very Likely,false
+2024-037_q35,1,Conservatives,false
+2024-037_q35,2,Liberals,false
+2024-037_q36,1,Domestic Terrorism,false
+2024-037_q36,2,International Terrorism,false
+2024-037_q37,1,1 - Strongly Disagree,false
+2024-037_q37,2,2 - Disagree,false
+2024-037_q37,3,3 - Neither Agree nor Disagree,false
+2024-037_q37,4,4 - Agree,false
+2024-037_q37,5,5 - Strongly Agree,false
+2024-037_q38,1,Extremely more likely to vote for Biden,false
+2024-037_q38,2,Somewhat more likely to vote for Biden,false
+2024-037_q38,3,Slightly more likely to vote for Biden,false
+2024-037_q38,4,No change,false
+2024-037_q38,5,Slightly less likely to vote for Biden,false
+2024-037_q38,6,Somewhat less likely to vote for Biden,false
+2024-037_q38,7,Extremely less likely to vote for Biden,false
+2024-037_q39,1,Yes,false
+2024-037_q39,2,No,false
+2024-037_q4,1,Support,false
+2024-037_q4,2,Oppose,false
+2024-037_q4,3,I don't know,false
+2024-037_q40,1,q40_1,false
+2024-037_q40,2,q40_2,false
+2024-037_q40,3,q40_3,false
+2024-037_q40,4,q40_4,false
+2024-037_q40,5,q40_5,false
+2024-037_q40,6,q40_6,false
+2024-037_q40,7,q40_7,false
+2024-037_q41,1,Character/integrity,false
+2024-037_q41,2,Effectiveness (ability to get the job done),false
+2024-037_q41,3,Strong and commanding presence,false
+2024-037_q41,4,Shared values/ideology,false
+2024-037_q41,5,Shared race/ethnicity/culture,false
+2024-037_q41,6,Fear of the other candidate winning,false
+2024-037_q41,7,None of the above,false
+2024-037_q42,1,Money plays a very positive role in politics,false
+2024-037_q42,2,Money plays a somewhat positive role in politics,false
+2024-037_q42,3,Money plays a neutral role in politics,false
+2024-037_q42,4,Money plays a somewhat negative role in politics,false
+2024-037_q42,5,Money plays a very negative role in politics,false
+2024-037_q43,1,Yes,false
+2024-037_q43,2,No,false
+2024-037_q44,1,"I would choose a short format like a TikTok or a Reel, because it is the best way to get people’s attention even if I don’t have time to explain my thoughts completely",false
+2024-037_q44,2,I would choose a “normal” Post with a short to long paragraph with a photo or a video that would complete my statement and still get people’s attention,false
+2024-037_q44,3,"I would post a lengthy video on YouTube, that way I’m free to explain myself thoroughly even if people might not be completely attentive",false
+2024-037_q44,4,I would post just a picture or a video with a few hashtags on multiple different platforms. I would get a nice reach across platforms even if I’m not using a lot of text,false
+2024-037_q44,5,I would create a newsletter to create and talk directly to a loyal audience,false
+2024-037_q44,6,I wouldn’t use formats like TikToks or Reels in any way. I would choose any long format to get an audience even if it has a high opportunity cost,false
+2024-037_q45,1,1 - Strongly Disagree,false
+2024-037_q45,2,2 - Disagree,false
+2024-037_q45,3,3 - Neither Agree nor Disagree,false
+2024-037_q45,4,4 - Agree,false
+2024-037_q45,5,5 - Strongly Agree,false
+2024-037_q46,1,The candidate’s personal background and identity,false
+2024-037_q46,2,The candidate’s stance on issues,false
+2024-037_q46,3,The candidate’s leadership and experience,false
+2024-037_q47,1,True,false
+2024-037_q47,2,False,false
+2024-037_q5,1,There is domestic extremism in the United States and it is a grave threat to democracy.,false
+2024-037_q5,2,There is domestic extremism in the United States and it is a moderate threat.,false
+2024-037_q5,3,There is domestic extremism in the United States and it is a small threat.,false
+2024-037_q5,4,There is domestic extremism in the United States but it is not a threat.,false
+2024-037_q5,5,There is domestic extremism in the United States and it is good for American democracy.,false
+2024-037_q5,6,There is not domestic extremism in the United States.,false
+2024-037_q50,1,Strongly Disagree,false
+2024-037_q50,2,Disagree,false
+2024-037_q50,3,Somewhat Disagree,false
+2024-037_q50,4,Neutral,false
+2024-037_q50,5,Somewhat Agree,false
+2024-037_q50,6,Agree,false
+2024-037_q50,7,Strongly Agree,false
+2024-037_q51,1,The government is much too lax,false
+2024-037_q51,2,The government is somewhat too lax,false
+2024-037_q51,3,The government is doing the right amount,false
+2024-037_q51,4,The government is somewhat too strict,false
+2024-037_q51,5,The government is much too strict,false
+2024-037_q52,1,"Yes, I feel completely protected.",false
+2024-037_q52,2,"Yes, I feel mostly protected.",false
+2024-037_q52,3,Neutral,false
+2024-037_q52,4,"No, I feel my state government does not protect my civil rights.",false
+2024-037_q53,1,1 - Very negative,false
+2024-037_q53,2,2 - Negative,false
+2024-037_q53,3,3 - Neither positive nor negative,false
+2024-037_q53,4,4 - Positive,false
+2024-037_q53,5,5 - Very positive,false
+2024-037_q54,1,Extremely agree,false
+2024-037_q54,2,Somewhat agree,false
+2024-037_q54,3,Neither agree nor disagree,false
+2024-037_q54,4,Somewhat disagree,false
+2024-037_q54,5,Extremely disagree,false
+2024-037_q55,1,Strong preference for Classical,false
+2024-037_q55,2,Slight preference for Classical,false
+2024-037_q55,3,No preference,false
+2024-037_q55,4,Slight preference for Modern,false
+2024-037_q55,5,Strong preference for Modern,false
+2024-037_q56,1,Very worried,false
+2024-037_q56,2,Somewhat worried,false
+2024-037_q56,3,Not very worried,false
+2024-037_q56,4,Not worried at all,false
+2024-037_q57,1,Access to hormone replacement therapy (HRT) should be explicitly protected under state law,false
+2024-037_q57,2,Access to hormone replacement therapy (HRT) should not be explicitly protected or restricted,false
+2024-037_q57,3,Access to hormone replacement therapy (HRT) should be limited or banned for minors under the age of 18,false
+2024-037_q57,4,Access to hormone replacement therapy (HRT) should be limited or banned for all state residents,false
+2024-037_q58,1,Yes,false
+2024-037_q58,2,No,false
+2024-037_q58,3,Not sure,false
+2024-037_q59,1,10 percent or less,false
+2024-037_q59,2,10 to 20 percent,false
+2024-037_q59,3,20 to 30 percent,false
+2024-037_q59,4,30 to 40 percent,false
+2024-037_q59,5,40 to 50 percent,false
+2024-037_q59,6,50 percent or more,false
+2024-037_q59,7,Don’t know,false
+2024-037_q6,1,Yes,false
+2024-037_q6,2,No,false
+2024-037_q6,3,It’s complicated,false
+2024-037_q6,4,I am unfamiliar with TikTok,false
+2024-037_q60,1,Culture,false
+2024-037_q60,2,The Economy,false
+2024-037_q60,3,Safety,false
+2024-037_q60,4,National Unity,false
+2024-037_q60,5,Education,false
+2024-037_q60,6,Employment,false
+2024-037_q60,7,Housing,false
+2024-037_q60,8,None of the above,false
+2024-037_q61,1,"Yes: Schools should teach about climate change, and its impacts on our environment, society, and future.",false
+2024-037_q61,2,"Yes: Schools should teach about climate change’s causes, but not about how it impacts society or the future",false
+2024-037_q61,3,No: Schools should not teach anything about climate change,false
+2024-037_q62,1,Short form content is beneficial,false
+2024-037_q62,2,Short form content is beneficial with a number of drawbacks,false
+2024-037_q62,3,Not beneficial enough should use long form content instead,false
+2024-037_q62,4,Should use a mix of both short form and long form content,false
+2024-037_q62,5,Short form content is not beneficial to either creativity or a better understanding in any fields,false
+2024-037_q63,1,0,false
+2024-037_q63,2,1,false
+2024-037_q63,3,2,false
+2024-037_q63,4,3,false
+2024-037_q63,5,4,false
+2024-037_q63,6,5,false
+2024-037_q63,7,6,false
+2024-037_q63,8,7,false
+2024-037_q64,1,Very Satisfied,false
+2024-037_q64,2,Satisfied,false
+2024-037_q64,3,Neutral,false
+2024-037_q64,4,Unsatisfied,false
+2024-037_q64,5,Very Unsatisfied,false
+2024-037_q65,1,0%,false
+2024-037_q65,2,Less than 5%,false
+2024-037_q65,3,5-10%,false
+2024-037_q65,4,11-20%,false
+2024-037_q65,5,21-30%,false
+2024-037_q65,6,30-40%,false
+2024-037_q65,7,More than 40%,false
+2024-037_q66,1,1 - Strongly disagree,false
+2024-037_q66,2,2 - Disagree,false
+2024-037_q66,3,3 - Neither agree nor disagree,false
+2024-037_q66,4,4 - Agree,false
+2024-037_q66,5,5 - Strongly agree,false
+2024-037_q67,1,Not at all,false
+2024-037_q67,2,Not much,false
+2024-037_q67,3,Somewhat,false
+2024-037_q67,4,A lot,false
+2024-037_q67,5,A great deal,false
+2024-037_q68,1,Not at all sad,false
+2024-037_q68,2,Slightly sad,false
+2024-037_q68,3,Moderately sad,false
+2024-037_q68,4,Very sad,false
+2024-037_q68,5,Extremely sad,false
+2024-037_q69,1,Not at all,false
+2024-037_q69,2,Not much,false
+2024-037_q69,3,Somewhat,false
+2024-037_q69,4,A lot,false
+2024-037_q69,5,A great deal,false
+2024-037_q70,1,Yes,false
+2024-037_q70,2,No,false
+2024-037_q71,1,Kamala Harris,false
+2024-037_q71,2,Nicole Shanahan,false
+2024-037_q71,3,Both of them are eligible.,false
+2024-037_q71,4,Neither of them are eligible.,false
+2024-037_q72,1,q72_1,false
+2024-037_q72,2,q72_2,false
+2024-037_q72,3,q72_3,false
+2024-037_q72,4,q72_4,false
+2024-037_q72,5,q72_5,false
+2024-037_q73,1,Increased,false
+2024-037_q73,2,Decreased,false
+2024-037_q73,3,Kept the same,false
+2024-037_q74,1,I do not know people in other countries,false
+2024-037_q74,2,I talk to people in other countries more than once a week,false
+2024-037_q74,3,I talk to people in other countries about once a week,false
+2024-037_q74,4,I talk to people in other countries every other week,false
+2024-037_q74,5,I talk to people in other countries about once a month,false
+2024-037_q74,6,I talk to people in other countries less than once a month,false
+2024-037_q75,1,Mostly likeminded content,false
+2024-037_q75,2,Somewhat likeminded content,false
+2024-037_q75,3,A mix of both,false
+2024-037_q75,4,Somewhat oppositional content,false
+2024-037_q75,5,Mostly oppositional content,false
+2024-037_q76,1,Joe Biden,false
+2024-037_q76,2,Donald Trump,false
+2024-037_q76,3,Robert Kennedy Jr.,false
+2024-037_q76,4,Some other candidate,false
+2024-037_q78,1,They should not be allowed to purchase any percentage of ownership in a team.,false
+2024-037_q78,2,"They should be allowed to purchase a percentage of ownership in a team, so long as they do not own the largest percentage of the team.",false
+2024-037_q78,3,"They should be allowed to purchase the largest percentage of ownership in a team, so long as they do not own 100% of the team.",false
+2024-037_q78,4,They should be allowed to purchase 100% ownership of a team.,false
+2024-037_q79,1,Candidate’s popularity,false
+2024-037_q79,2,Candidate’s competency,false
+2024-037_q79,3,Personal Economic issues,false
+2024-037_q79,4,National or macroeconomic issues,false
+2024-037_q79,5,Partisan issues (because you always voted for the candidate of your preferred party),false
+2024-037_q79,6,International issues,false
+2024-037_q79,7,Candidate’s personal image,false
+2024-037_q79,8,Other,false
+2024-037_q79,9,I have not voted in a Presidential election,false
+2024-037_q8,1,Yes,false
+2024-037_q8,2,No,false
+2024-037_q8,3,Not sure,false
+2024-037_q80,1,The Marvel Universe (the MCU),false
+2024-037_q80,2,The Hunger Games series,false
+2024-037_q80,3,The Divergent series,false
+2024-037_q80,4,The Harry Potter series,false
+2024-037_q80,5,The Maze Runner series,false
+2024-037_q80,6,"Role playing video games, such as The Last of Us, Undertale, Red Dead Redemption, etc.",false
+2024-037_q80,7,"First person shooter video games, such as Call of Duty, Halo, CSGO, GTA, etc.",false
+2024-037_q80,8,None of the above,false
+2024-037_q82,1,Urban Centers,false
+2024-037_q82,2,Suburban Areas,false
+2024-037_q82,3,Small Towns,false
+2024-037_q82,4,Rural Areas,false
+2024-037_q83,1,No,false
+2024-037_q83,2,"Yes, in the last 5 years",false
+2024-037_q83,3,"Yes, in the past 10 years",false
+2024-037_q83,4,"Yes, but more than 10 years ago",false
+2024-037_q84,1,q84_1,false
+2024-037_q84,2,q84_2,false
+2024-037_q84,3,q84_3,false
+2024-037_q84,4,q84_4,false
+2024-037_q84,5,q84_5,false
+2024-037_q84,6,q84_6,false
+2024-037_q85,1,Joe Biden,false
+2024-037_q85,2,Donald Trump,false
+2024-037_q85,3,"Robert Kennedy, Jr.",false
+2024-037_q85,4,Someone else,false
+2024-037_q9,1,"Yes, a lot",false
+2024-037_q9,2,"Yes, a little",false
+2024-037_q9,3,No,false

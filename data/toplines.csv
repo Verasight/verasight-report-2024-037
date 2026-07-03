@@ -1,0 +1,374 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2024-037_q1,1,Complete confidence,0.08772226834396504,8.77,87.72226834396523,79,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q1,2,Some confidence,0.4504557078130972,45.05,450.4557078130982,469,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q1,3,Little confidence,0.32052207395196397,32.05,320.52207395196467,322,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q1,4,No confidence,0.10109532245818995,10.11,101.09532245819017,96,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q1,5,Not sure,0.040204627432783725,4.02,40.20462743278381,34,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q10,1,"Yes, all are welcome (Jewish, Muslim, and Christian).",0.45397727820258643,45.4,453.9772782025874,471,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q10,2,"Yes, but only Jewish refugees.",0.03383702194628482,3.38,33.8370219462849,34,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q10,3,"Yes, but only Muslim refugees.",0.019661962791371636,1.97,19.66196279137168,14,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q10,4,"Yes, but only Christian refugees.",0.036026723315350735,3.6,36.026723315350814,35,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q10,5,"No, the U.S. should not be held responsible for displaced people from the region.",0.4564970137444063,45.65,456.4970137444073,446,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,1,Feedback/Input from Constituents,0.2674617239413403,26.75,267.4617239413409,282,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,2,Feedback/Input from Lobbyist and Interest Groups,0.48399630557431167,48.4,483.9963055743127,500,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,3,Feedback/Input from Media,0.20247734812912688,20.25,202.4773481291273,198,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,4,Feedback/Input from a Political Party,0.4384238225086929,43.84,438.42382250869383,443,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,5,Their own opinion,0.44648878714436163,44.65,446.4887871443626,440,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,6,Feedback/Input from Others,0.15611977933050697,15.61,156.1197793305073,166,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,7,Other,0.038008139544203866,3.8,38.00813954420395,40,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q11,8,None of the above,0.07297580553925134,7.3,72.9758055392515,74,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q12,1,"Yes, Pre OIF (Operation Iraqi Freedom) and OEF (Operation Enduring Freedom)",0.016437577462747308,1.64,16.437577462747342,15,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q12,2,"Yes, OIF (Operation Iraqi Freedom)",0.01355650480495473,1.36,13.55650480495476,12,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q12,3,"Yes, OEF (Operation Enduring Freedom)",0.02294599250825113,2.29,22.94599250825118,22,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q12,4,"Yes, Post OIF (Operation Iraqi Freedom) and OEF (Operation Enduring Freedom)",0.019880278028707933,1.99,19.880278028707977,16,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q12,5,"No, I have not served in combat",0.9332441605436775,93.32,933.2441605436795,941,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q13,1,Support,0.4025654297074386,40.26,402.5654297074395,389,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q13,2,Oppose,0.28247696509908604,28.25,282.47696509908667,298,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q13,3,I don't know,0.31495760519347527,31.5,314.95760519347596,313,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q14,1,Support a minor political party,0.07837666602400872,7.84,78.3766660240089,74,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q14,2,"Support no political party (a ""true"" independent)",0.2554212949900931,25.54,255.42129499009363,261,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q14,3,Consider yourself a Republican or Democrat but won’t admit it,0.10604916837510857,10.6,106.04916837510879,95,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q14,4,Other,0.08360086401079542,8.36,83.6008640107956,86,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q14,5,I am not an Independent,0.4765520065999941,47.66,476.55200659999514,484,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q15,1,1 - Very Weak,0.06178210808354912,6.18,61.782108083549254,67,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q15,2,2 - Weak,0.16229291031547557,16.23,162.29291031547592,160,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q15,3,3 - Neither Powerful nor Weak,0.4692174029255781,46.92,469.2174029255791,469,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q15,4,4 - Powerful,0.23271369782915213,23.27,232.71369782915264,237,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q15,5,5 - Very Powerful,0.07399388084624504,7.4,73.9938808462452,67,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q17,1,More well off than your neighbors,0.0777702730189447,7.78,77.77027301894486,82,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q17,2,About equally well off as your neighbors,0.45393795008225574,45.39,453.9379500822567,444,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q17,3,Less well off than your neighbors,0.34107151005314174,34.11,341.07151005314245,350,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q17,4,Don’t know,0.12722026684565782,12.72,127.22026684565809,124,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q18,1,Very concerned,0.19761295262438305,19.76,197.61295262438347,203,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q18,2,Somewhat concerned,0.4145476111981563,41.45,414.5476111981572,414,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q18,3,Not very concerned,0.24847291480652395,24.85,248.47291480652447,249,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q18,4,Not at all concerned,0.13936652137093664,13.94,139.36652137093694,134,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q19,1,Medicare,0.20262135877445658,20.26,202.621358774457,197,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q19,2,Social Security,0.3703196474878066,37.03,370.3196474878074,382,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q19,3,Both programs will exhaust their funds within the same year,0.42705899373773676,42.71,427.0589937377377,421,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q2,1,Strongly favor policies that prohibit gender-affirming care,0.22384963993050913,22.38,223.84963993050962,227,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q2,2,Favor policies that prohibit gender-affirming care,0.21895298252455378,21.9,218.95298252455424,221,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q2,3,Oppose policies that prohibit gender-affirming care,0.29406609479361945,29.41,294.0660947936201,293,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q2,4,Strongly oppose policies that prohibit gender-affirming care,0.26313128275131753,26.31,263.1312827513181,259,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q21,1,Democrats have produced the majority of political misinformation,0.24308311543156605,24.31,243.08311543156657,244,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q21,2,Republicans have produced the majority of political misinformation,0.2883036265209148,28.83,288.30362652091543,297,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q21,3,Democrats and Republicans have produced roughly an equal amount of political misinformation,0.3640643749861387,36.41,364.06437498613946,355,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q21,4,Most political misinformation has been produced by non-partisan entities (neither Democrat nor Republican),0.10454888306138037,10.45,104.5488830613806,104,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q23,1,Yes - I’m in favor of the removal,0.5183758734103144,51.84,518.3758734103155,531,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q23,2,No - race and gender should be considered in an effort to diversify institutions,0.262595469712973,26.26,262.59546971297357,252,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q23,3,I’m uncertain of my opinion on this policy issue,0.21902865687671247,21.9,219.02865687671294,217,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q24,1,Strongly agree,0.19792012254131258,19.79,197.92012254131302,196,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q24,2,Agree,0.25781718962490074,25.78,257.8171896249013,250,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q24,3,Neither agree nor disagree,0.23236711302511637,23.24,232.36711302511688,225,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q24,4,Disagree,0.1450677318305346,14.51,145.0677318305349,147,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q24,5,Strongly disagree,0.16682784297813558,16.68,166.82784297813595,182,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,1,Social Media,0.2585099111246125,25.85,258.5099111246131,222,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,2,Broadcast Television,0.20127377622109774,20.13,201.27377622109816,214,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,3,Newspapers and/or Magazines,0.08528049930732523,8.53,85.28049930732541,86,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,4,Radio,0.04450104329697048,4.45,44.50104329697058,50,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,5,Cable Television,0.17930582605545664,17.93,179.30582605545703,193,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,6,Podcasts,0.055979526417812626,5.6,55.97952641781275,55,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,7,Other,0.08913442035557537,8.91,89.13442035557556,92,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q26,8,None of the above,0.08601499722114929,8.6,86.01499722114947,88,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q27,1,Not at all worried,0.22760233333153362,22.76,227.6023333315341,231,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q27,2,A little worried,0.17832814810691583,17.83,178.32814810691622,180,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q27,3,Somewhat worried,0.18266771655392386,18.27,182.66771655392427,173,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q27,4,Very worried,0.09056445486455117,9.06,90.56445486455137,84,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q27,5,Extremely worried,0.06348631624943127,6.35,63.48631624943141,59,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q27,6,I am not currently employed,0.25735103089364414,25.74,257.3510308936447,273,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q28,1,Synthetic rubber produced in factories,0.19632746469496865,19.63,196.32746469496908,196,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q28,2,Natural rubber harvested from trees,0.048549297020104194,4.85,48.5492970201043,50,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q28,3,A combination of natural and synthetic rubber,0.3493730929112696,34.94,349.37309291127036,343,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q28,4,I am not sure,0.4057501453736575,40.58,405.75014537365837,411,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_1,1,1 - Strongly Disagree,0.05992411297798506,5.99,59.92411297798519,62,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_1,2,2 - Disagree,0.04944951919074305,4.94,49.44951919074316,52,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_1,3,3 - Neither Agree nor Disagree,0.23933736411618142,23.93,239.33736411618193,230,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_1,4,4 - Agree,0.3205059523908864,32.05,320.5059523908871,321,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_1,5,5 - Strongly Agree,0.33078305132420394,33.08,330.7830513242047,335,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_2,1,1 - Strongly Disagree,0.03143101042886015,3.14,31.43101042886022,36,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_2,2,2 - Disagree,0.043577736254867175,4.36,43.57773625486727,42,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_2,3,3 - Neither Agree nor Disagree,0.2603119494388451,26.03,260.31194943884566,239,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_2,4,4 - Agree,0.3137259968034455,31.37,313.72599680344615,322,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q29_q30_2,5,5 - Strongly Agree,0.3509533070739821,35.1,350.95330707398284,361,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q3,1,Strongly agree,0.19427248018340096,19.43,194.27248018340137,193,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q3,2,Somewhat agree,0.1636613151720759,16.37,163.66131517207626,144,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q3,3,Neither agree nor disagree,0.43495729273560885,43.5,434.95729273560977,454,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q3,4,Somewhat disagree,0.08090569565338702,8.09,80.9056956533872,80,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q3,5,Strongly disagree,0.12620321625552722,12.62,126.20321625552748,129,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_1,1,1 - Very Unlikely,0.17188599790116232,17.19,171.88599790116268,182,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_1,2,2 - Unlikely,0.26570263094164753,26.57,265.7026309416481,272,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_1,3,3 - Neither Likely nor Unlikely,0.3565380812611602,35.65,356.538081261161,350,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_1,4,4 - Likely,0.1590812742433199,15.91,159.08127424332022,151,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_1,5,5 - Very Likely,0.046792015652709976,4.68,46.79201565271008,45,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_2,1,1 - Very Unlikely,0.17300033895450134,17.3,173.00033895450173,176,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_2,2,2 - Unlikely,0.17847373844283992,17.85,178.4737384428403,180,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_2,3,3 - Neither Likely nor Unlikely,0.3271558270184544,32.72,327.1558270184551,322,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_2,4,4 - Likely,0.22589908506881762,22.59,225.8990850688181,235,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_2,5,5 - Very Likely,0.09547101051538666,9.55,95.47101051538687,87,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_3,1,1 - Very Unlikely,0.08231939700800006,8.23,82.31939700800024,77,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_3,2,2 - Unlikely,0.10648467216357291,10.65,106.48467216357314,111,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_3,3,3 - Neither Likely nor Unlikely,0.3504707826849157,35.05,350.47078268491646,349,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_3,4,4 - Likely,0.30114390550110276,30.11,301.1439055011034,306,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_3,5,5 - Very Likely,0.15958124264240847,15.96,159.58124264240882,157,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_4,1,1 - Very Unlikely,0.10812230177060016,10.81,108.12230177060039,120,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_4,2,2 - Unlikely,0.2258945689073115,22.59,225.894568907312,230,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_4,3,3 - Neither Likely nor Unlikely,0.36639724802002116,36.64,366.39724802002195,368,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_4,4,4 - Likely,0.1945052592894905,19.45,194.5052592894909,190,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_4,5,5 - Very Likely,0.10508062201257662,10.51,105.08062201257684,92,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_5,1,1 - Very Unlikely,0.09741004460302422,9.74,97.41004460302443,102,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_5,2,2 - Unlikely,0.20004399736774697,20,200.0439973677474,208,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_5,3,3 - Neither Likely nor Unlikely,0.3913139481763762,39.13,391.31394817637704,391,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_5,4,4 - Likely,0.22974194175602422,22.97,229.74194175602472,228,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_5,5,5 - Very Likely,0.0814900680968283,8.15,81.49006809682847,71,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_6,1,1 - Very Unlikely,0.3178664511107154,31.79,317.86645111071607,334,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_6,2,2 - Unlikely,0.2553389725357143,25.53,255.33897253571487,269,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_6,3,3 - Neither Likely nor Unlikely,0.28803906287938147,28.8,288.0390628793821,277,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_6,4,4 - Likely,0.0927971347193096,9.28,92.7971347193098,82,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q31_q34_q81_q22_6,5,5 - Very Likely,0.04595837875487921,4.6,45.958378754879305,38,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q35,1,Conservatives,0.4703886466430281,47.04,470.3886466430291,480,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q35,2,Liberals,0.5296113533569717,52.96,529.6113533569729,520,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q36,1,Domestic Terrorism,0.6163258289935287,61.63,616.3258289935301,609,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q36,2,International Terrorism,0.3836741710064712,38.37,383.674171006472,391,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q37,1,1 - Strongly Disagree,0.08254299951430431,8.25,82.5429995143045,93,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q37,2,2 - Disagree,0.09461046355049399,9.46,94.61046355049419,97,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q37,3,3 - Neither Agree nor Disagree,0.2845235948911684,28.45,284.523594891169,279,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q37,4,4 - Agree,0.26544962189749866,26.54,265.44962189749924,262,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q37,5,5 - Strongly Agree,0.27287332014653454,27.29,272.87332014653515,269,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,1,Extremely more likely to vote for Biden,0.14370693778609783,14.37,143.70693778609814,134,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,2,Somewhat more likely to vote for Biden,0.05730007537113552,5.73,57.30007537113564,59,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,3,Slightly more likely to vote for Biden,0.047317946141735893,4.73,47.317946141735995,44,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,4,No change,0.3825274612204944,38.25,382.52746122049524,393,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,5,Slightly less likely to vote for Biden,0.03399262420274102,3.4,33.99262420274109,35,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,6,Somewhat less likely to vote for Biden,0.03181798245241362,3.18,31.81798245241369,29,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q38,7,Extremely less likely to vote for Biden,0.30333697282538163,30.33,303.3369728253823,306,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q39,1,Yes,0.3118871364332251,31.19,311.88713643322575,318,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q39,2,No,0.6881128635667749,68.81,688.1128635667764,682,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q4,1,Support,0.34422757826881517,34.42,344.22757826881593,323,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q4,2,Oppose,0.45036815474724645,45.04,450.36815474724744,475,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q4,3,I don't know,0.20540426698393824,20.54,205.40426698393867,202,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,1,q40_1,0.3381892667267236,33.82,338.1892667267243,339,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,2,q40_2,0.49815485950563154,49.82,498.1548595056326,509,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,3,q40_3,0.4992851395617756,49.93,499.2851395617767,501,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,4,q40_4,0.3141563922083724,31.42,314.15639220837306,319,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,5,q40_5,0.22098650964989328,22.1,220.98650964989375,227,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,6,q40_6,0.2743938534339858,27.44,274.3938534339864,273,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q40,7,q40_7,0.27227069502552853,27.23,272.2706950255291,276,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,1,Character/integrity,0.4875582327401678,48.76,487.5582327401689,505,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,2,Effectiveness (ability to get the job done),0.6102686167293487,61.03,610.26861672935,617,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,3,Strong and commanding presence,0.30146918263648115,30.15,301.4691826364818,300,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,4,Shared values/ideology,0.4403851085604325,44.04,440.3851085604335,461,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,5,Shared race/ethnicity/culture,0.10516721217678239,10.52,105.16721217678261,97,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,6,Fear of the other candidate winning,0.3075819248542901,30.76,307.5819248542908,315,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q41,7,None of the above,0.09314968789819442,9.31,93.14968789819461,90,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q42,1,Money plays a very positive role in politics,0.15588608043318816,15.59,155.8860804331885,150,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q42,2,Money plays a somewhat positive role in politics,0.09041327972072265,9.04,90.41327972072284,78,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q42,3,Money plays a neutral role in politics,0.16051326743454392,16.05,160.51326743454428,144,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q42,4,Money plays a somewhat negative role in politics,0.2075007084505943,20.75,207.50070845059474,221,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q42,5,Money plays a very negative role in politics,0.38568666396095086,38.57,385.6866639609517,407,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q43,1,Yes,0.30229362267652315,30.23,302.2936226765238,307,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q43,2,No,0.6977063773234767,69.77,697.7063773234783,693,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q44,1,"I would choose a short format like a TikTok or a Reel, because it is the best way to get people’s attention even if I don’t have time to explain my thoughts completely",0.18159716108107943,18.16,181.59716108108006,178,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q44,2,I would choose a “normal” Post with a short to long paragraph with a photo or a video that would complete my statement and still get people’s attention,0.3593625019982532,35.94,359.36250199825446,370,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q44,3,"I would post a lengthy video on YouTube, that way I’m free to explain myself thoroughly even if people might not be completely attentive",0.11579623564205953,11.58,115.79623564205994,111,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q44,4,I would post just a picture or a video with a few hashtags on multiple different platforms. I would get a nice reach across platforms even if I’m not using a lot of text,0.14851990051258152,14.85,148.51990051258204,147,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q44,5,I would create a newsletter to create and talk directly to a loyal audience,0.0829208998654544,8.29,82.92089986545469,82,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q44,6,I wouldn’t use formats like TikToks or Reels in any way. I would choose any long format to get an audience even if it has a high opportunity cost,0.11180330090057199,11.18,111.80330090057238,112,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q45,1,1 - Strongly Disagree,0.15852208254207764,15.85,158.52208254207798,167,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q45,2,2 - Disagree,0.11668813362286302,11.67,116.68813362286328,101,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q45,3,3 - Neither Agree nor Disagree,0.21193474947424026,21.19,211.93474947424073,210,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q45,4,4 - Agree,0.21430953565347127,21.43,214.30953565347173,213,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q45,5,5 - Strongly Agree,0.2985454987073477,29.85,298.5454987073484,309,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q46,1,The candidate’s personal background and identity,0.08747259220188042,8.75,87.47259220188073,80,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q46,2,The candidate’s stance on issues,0.6485100164266179,64.85,648.5100164266202,657,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q46,3,The candidate’s leadership and experience,0.26401739137150176,26.4,264.0173913715027,263,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q47,1,True,0.6601975957629288,66.02,660.1975957629311,651,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q47,2,False,0.33980240423707125,33.98,339.80240423707244,349,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q5,1,There is domestic extremism in the United States and it is a grave threat to democracy.,0.3003441315198197,30.03,300.34413151982034,320,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q5,2,There is domestic extremism in the United States and it is a moderate threat.,0.3047847205592371,30.48,304.78472055923777,306,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q5,3,There is domestic extremism in the United States and it is a small threat.,0.2128131923744037,21.28,212.81319237440414,197,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q5,4,There is domestic extremism in the United States but it is not a threat.,0.10681732035696379,10.68,106.81732035696402,102,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q5,5,There is domestic extremism in the United States and it is good for American democracy.,0.021515118914186487,2.15,21.515118914186534,23,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q5,6,There is not domestic extremism in the United States.,0.05372551627538917,5.37,53.72551627538929,52,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,1,Strongly Disagree,0.19024355772055163,19.02,190.2435577205523,185,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,2,Disagree,0.14343399762134074,14.34,143.43399762134123,155,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,3,Somewhat Disagree,0.14280789391637128,14.28,142.80789391637177,145,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,4,Neutral,0.27903834890905477,27.9,279.03834890905574,280,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,5,Somewhat Agree,0.14835959487361736,14.84,148.35959487361788,142,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,6,Agree,0.06089611022470348,6.09,60.8961102247037,61,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q50,7,Strongly Agree,0.035220496734360895,3.52,35.22049673436102,32,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q51,1,The government is much too lax,0.13279344424402348,13.28,132.79344424402396,133,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q51,2,The government is somewhat too lax,0.2660389572788526,26.6,266.0389572788535,272,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q51,3,The government is doing the right amount,0.30704337120243874,30.7,307.0433712024398,309,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q51,4,The government is somewhat too strict,0.1982341536336339,19.82,198.23415363363458,196,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q51,5,The government is much too strict,0.0958900736410514,9.59,95.89007364105174,90,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q52,1,"Yes, I feel completely protected.",0.11279279124416647,11.28,112.79279124416686,109,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q52,2,"Yes, I feel mostly protected.",0.3319420239116727,33.19,331.94202391167386,342,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q52,3,Neutral,0.2838955050601125,28.39,283.8955050601135,279,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q52,4,"No, I feel my state government does not protect my civil rights.",0.2713696797840484,27.14,271.36967978404937,270,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q53,1,1 - Very negative,0.3235298333348737,32.35,323.52983333487435,330,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q53,2,2 - Negative,0.297784930892221,29.78,297.78493089222167,318,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q53,3,3 - Neither positive nor negative,0.2643987368070466,26.44,264.3987368070472,261,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q53,4,4 - Positive,0.08244167916682281,8.24,82.441679166823,69,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q53,5,5 - Very positive,0.03184481979903581,3.18,31.84481979903588,22,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q54,1,Extremely agree,0.1713464027196791,17.13,171.3464027196797,164,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q54,2,Somewhat agree,0.20359961001297291,20.36,203.59961001297364,209,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q54,3,Neither agree nor disagree,0.35825442392235873,35.83,358.25442392236,363,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q54,4,Somewhat disagree,0.09573076642524705,9.57,95.7307664252474,96,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q54,5,Extremely disagree,0.17106879691974225,17.11,171.06879691974285,168,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q55,1,Strong preference for Classical,0.1308720057026686,13.09,130.87200570266907,132,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q55,2,Slight preference for Classical,0.16358915217214892,16.36,163.5891521721495,163,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q55,3,No preference,0.4623343722646592,46.23,462.33437226466083,466,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q55,4,Slight preference for Modern,0.14342712843295535,14.34,143.42712843295587,147,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q55,5,Strong preference for Modern,0.09977734142756801,9.98,99.77734142756836,92,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q56,1,Very worried,0.3783767941607903,37.84,378.37679416079163,386,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q56,2,Somewhat worried,0.41421800809797893,41.42,414.2180080979804,417,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q56,3,Not very worried,0.1412136298967191,14.12,141.2136298967196,138,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q56,4,Not worried at all,0.06619156784451175,6.62,66.19156784451198,59,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q57,1,Access to hormone replacement therapy (HRT) should be explicitly protected under state law,0.21235427714623212,21.24,212.35427714623287,210,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q57,2,Access to hormone replacement therapy (HRT) should not be explicitly protected or restricted,0.1577064457735505,15.77,157.70644577355105,157,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q57,3,Access to hormone replacement therapy (HRT) should be limited or banned for minors under the age of 18,0.4626952123142584,46.27,462.69521231426006,470,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q57,4,Access to hormone replacement therapy (HRT) should be limited or banned for all state residents,0.16724406476595904,16.72,167.24406476595962,163,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q58,1,Yes,0.061700745341941,6.17,61.700745341941214,54,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q58,2,No,0.9195106001507143,91.95,919.5106001507176,929,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q58,3,Not sure,0.018788654507344814,1.88,18.78865450734488,17,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,1,10 percent or less,0.20235304525916104,20.24,202.35304525916175,207,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,2,10 to 20 percent,0.25219860683219697,25.22,252.19860683219784,257,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,3,20 to 30 percent,0.2067816097725077,20.68,206.78160977250843,206,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,4,30 to 40 percent,0.09514807415640948,9.51,95.14807415640982,92,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,5,40 to 50 percent,0.03315997377847609,3.32,33.15997377847621,31,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,6,50 percent or more,0.03546559417025322,3.55,35.46559417025334,36,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q59,7,Don’t know,0.1748930960309956,17.49,174.89309603099622,171,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q6,1,Yes,0.2929247524218942,29.29,292.9247524218948,294,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q6,2,No,0.3133194799082759,31.33,313.3194799082766,304,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q6,3,It’s complicated,0.32258592516257595,32.26,322.58592516257664,335,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q6,4,I am unfamiliar with TikTok,0.07116984250725387,7.12,71.16984250725403,67,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,1,Culture,0.3204426519986542,32.04,320.4426519986553,332,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,2,The Economy,0.32848137623297324,32.85,328.4813762329744,325,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,3,Safety,0.10079297936438175,10.08,100.7929793643821,88,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,4,National Unity,0.09142852585137379,9.14,91.4285258513741,85,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,5,Education,0.11163120725104095,11.16,111.63120725104135,104,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,6,Employment,0.24221222798788786,24.22,242.21222798788872,235,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,7,Housing,0.105613208421559,10.56,105.61320842155936,96,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q60,8,None of the above,0.4639435313038807,46.39,463.94353130388237,471,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q61,1,"Yes: Schools should teach about climate change, and its impacts on our environment, society, and future.",0.6467740188563359,64.68,646.7740188563382,657,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q61,2,"Yes: Schools should teach about climate change’s causes, but not about how it impacts society or the future",0.1623406304588171,16.23,162.34063045881769,160,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q61,3,No: Schools should not teach anything about climate change,0.19088535068484702,19.09,190.8853506848477,183,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q62,1,Short form content is beneficial,0.12009787076380694,12.01,120.09787076380736,120,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q62,2,Short form content is beneficial with a number of drawbacks,0.20474141748000219,20.47,204.7414174800029,205,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q62,3,Not beneficial enough should use long form content instead,0.17567825640872464,17.57,175.67825640872528,164,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q62,4,Should use a mix of both short form and long form content,0.30632776426480746,30.63,306.32776426480854,318,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q62,5,Short form content is not beneficial to either creativity or a better understanding in any fields,0.19315469108265884,19.32,193.15469108265953,193,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,1,0,0.21139019290542513,21.14,211.39019290542586,210,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,2,1,0.1587003273091291,15.87,158.70032730912968,162,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,3,2,0.1603231068940106,16.03,160.32310689401118,162,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,4,3,0.1541674057499112,15.42,154.16740574991175,155,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,5,4,0.08922918184943937,8.92,89.22918184943968,87,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,6,5,0.07612086832193413,7.61,76.1208683219344,76,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,7,6,0.021038267866970373,2.1,21.038267866970447,22,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q63,8,7,0.12903064910318013,12.9,129.0306491031806,126,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q64,1,Very Satisfied,0.12440327398197006,12.44,124.4032739819705,120,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q64,2,Satisfied,0.35558967013723725,35.56,355.5896701372385,364,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q64,3,Neutral,0.4073966993219622,40.74,407.39669932196364,405,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q64,4,Unsatisfied,0.07728623861433717,7.73,77.28623861433745,82,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q64,5,Very Unsatisfied,0.03532411794449339,3.53,35.324117944493516,29,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,1,0%,0.009727052650038813,0.97,9.727052650038846,8,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,2,Less than 5%,0.10310056766374114,10.31,103.1005676637415,107,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,3,5-10%,0.28610842988472346,28.61,286.10842988472444,288,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,4,11-20%,0.2862784186950793,28.63,286.2784186950803,289,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,5,21-30%,0.2074474209484404,20.74,207.44742094844113,203,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,6,30-40%,0.08020980787267899,8.02,80.20980787267928,81,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q65,7,More than 40%,0.02712830228529805,2.71,27.128302285298144,24,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q66,1,1 - Strongly disagree,0.04580652765488714,4.58,45.80652765488723,48,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q66,2,2 - Disagree,0.13775441261015195,13.78,137.75441261015226,137,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q66,3,3 - Neither agree nor disagree,0.2894689473983937,28.95,289.46894739839433,300,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q66,4,4 - Agree,0.37655873328917167,37.66,376.5587332891725,369,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q66,5,5 - Strongly agree,0.15041137904739543,15.04,150.41137904739577,146,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q67,1,Not at all,0.10099756290776729,10.1,100.99756290776764,102,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q67,2,Not much,0.14240469440421946,14.24,142.40469440421995,142,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q67,3,Somewhat,0.30007761861424315,30.01,300.0776186142442,294,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q67,4,A lot,0.19853652947911438,19.85,198.53652947911507,202,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q67,5,A great deal,0.2579835945946558,25.8,257.9835945946567,260,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q68,1,Not at all sad,0.26225532146452796,26.23,262.2553214645289,263,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q68,2,Slightly sad,0.17348183059497368,17.35,173.4818305949743,167,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q68,3,Moderately sad,0.26363156190725107,26.36,263.631561907252,251,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q68,4,Very sad,0.14980426076866496,14.98,149.8042607686655,160,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q68,5,Extremely sad,0.15082702526458241,15.08,150.82702526458294,159,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q69,1,Not at all,0.04702040034867649,4.7,47.02040034867665,40,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q69,2,Not much,0.119256636019052,11.93,119.25663601905242,115,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q69,3,Somewhat,0.35917918452716174,35.92,359.179184527163,361,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q69,4,A lot,0.19167007682918946,19.17,191.67007682919015,190,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q69,5,A great deal,0.2828737022759204,28.29,282.8737022759214,294,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q70,1,Yes,0.36367539303432445,36.37,363.67539303432574,349,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q70,2,No,0.6363246069656756,63.63,636.3246069656778,651,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q71,1,Kamala Harris,0.32429909121732187,32.43,324.299091217323,329,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q71,2,Nicole Shanahan,0.07184775563047875,7.18,71.847755630479,68,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q71,3,Both of them are eligible.,0.320265559680056,32.03,320.2655596800571,327,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q71,4,Neither of them are eligible.,0.2835875934721435,28.36,283.58759347214453,276,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q72,1,q72_1,0.6123243934835533,61.23,612.3243934835555,625,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q72,2,q72_2,0.6007138396411472,60.07,600.7138396411493,613,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q72,3,q72_3,0.3488093037721897,34.88,348.80930377219096,349,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q72,4,q72_4,0.24561138464988358,24.56,245.61138464988446,247,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q72,5,q72_5,0.1867209683350112,18.67,186.72096833501186,185,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q73,1,Increased,0.5060066757180475,50.6,506.0066757180492,521,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q73,2,Decreased,0.16151407151303782,16.15,161.51407151303837,147,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q73,3,Kept the same,0.3324792527689148,33.25,332.479252768916,332,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q74,1,I do not know people in other countries,0.40186443249846304,40.19,401.86443249846445,414,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q74,2,I talk to people in other countries more than once a week,0.16704708253841397,16.7,167.04708253841454,165,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q74,3,I talk to people in other countries about once a week,0.11174777224420536,11.17,111.74777224420575,104,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q74,4,I talk to people in other countries every other week,0.0717185698012939,7.17,71.71856980129415,66,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q74,5,I talk to people in other countries about once a month,0.10593069142815549,10.59,105.93069142815587,104,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q74,6,I talk to people in other countries less than once a month,0.14169145148946835,14.17,141.69145148946885,147,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q75,1,Mostly likeminded content,0.13846239619304637,13.85,138.46239619304686,135,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q75,2,Somewhat likeminded content,0.14079034900342088,14.08,140.79034900342137,140,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q75,3,A mix of both,0.6615306899561788,66.15,661.5306899561812,667,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q75,4,Somewhat oppositional content,0.03227607320233533,3.23,32.276073202335446,34,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q75,5,Mostly oppositional content,0.026940491645018657,2.69,26.940491645018753,24,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q76,1,Joe Biden,0.39802597216172775,39.8,398.02597216172916,417,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q76,2,Donald Trump,0.4959961118309198,49.6,495.99611183092156,478,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q76,3,Robert Kennedy Jr.,0.045618440684216666,4.56,45.61844068421683,46,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q76,4,Some other candidate,0.06035947532313586,6.04,60.359475323136074,59,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q78,1,They should not be allowed to purchase any percentage of ownership in a team.,0.5384984115682596,53.85,538.4984115682615,553,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q78,2,"They should be allowed to purchase a percentage of ownership in a team, so long as they do not own the largest percentage of the team.",0.28743760129851403,28.74,287.43760129851506,275,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q78,3,"They should be allowed to purchase the largest percentage of ownership in a team, so long as they do not own 100% of the team.",0.055922431240332464,5.59,55.92243124033266,52,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q78,4,They should be allowed to purchase 100% ownership of a team.,0.11814155589289396,11.81,118.14155589289437,120,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,1,Candidate’s popularity,0.03012441174055134,3.01,30.124411740551444,27,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,2,Candidate’s competency,0.2583307921424871,25.83,258.330792142488,277,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,3,Personal Economic issues,0.17191848586297215,17.19,171.91848586297274,168,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,4,National or macroeconomic issues,0.13844521736947757,13.84,138.44521736947806,147,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,5,Partisan issues (because you always voted for the candidate of your preferred party),0.10684885934355984,10.68,106.84885934356022,106,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,6,International issues,0.04914121039541685,4.91,49.141210395417026,46,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,7,Candidate’s personal image,0.057809066937746005,5.78,57.80906693774621,59,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,8,Other,0.07059220547145127,7.06,70.59220547145152,72,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q79,9,I have not voted in a Presidential election,0.11678975073633799,11.68,116.7897507363384,98,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q8,1,Yes,0.07785268245235662,7.79,77.85268245235679,73,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q8,2,No,0.6276852920634359,62.77,627.6852920634373,651,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q8,3,Not sure,0.29446202548420747,29.45,294.4620254842081,276,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,1,The Marvel Universe (the MCU),0.29172290151599634,29.17,291.72290151599736,276,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,2,The Hunger Games series,0.2568965049509518,25.69,256.8965049509527,247,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,3,The Divergent series,0.14364160391208816,14.36,143.64160391208867,137,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,4,The Harry Potter series,0.27643671163300804,27.64,276.436711633009,280,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,5,The Maze Runner series,0.10558489864693464,10.56,105.58489864693502,99,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,6,"Role playing video games, such as The Last of Us, Undertale, Red Dead Redemption, etc.",0.14490922187502073,14.49,144.90922187502125,124,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,7,"First person shooter video games, such as Call of Duty, Halo, CSGO, GTA, etc.",0.18561058396839994,18.56,185.6105839684006,162,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q80,8,None of the above,0.4084274715075193,40.84,408.42747150752075,434,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q82,1,Urban Centers,0.5789348725335136,57.89,578.9348725335157,589,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q82,2,Suburban Areas,0.29110298217402225,29.11,291.1029821740233,282,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q82,3,Small Towns,0.05967170515067835,5.97,59.67170515067856,57,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q82,4,Rural Areas,0.0702904401417859,7.03,70.29044014178615,72,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q83,1,No,0.8420706847718097,84.21,842.0706847718127,843,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q83,2,"Yes, in the last 5 years",0.037984271087299834,3.8,37.984271087299966,34,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q83,3,"Yes, in the past 10 years",0.028850883123118478,2.89,28.850883123118578,26,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q83,4,"Yes, but more than 10 years ago",0.09109416101777203,9.11,91.09416101777235,97,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q84,1,q84_1,0.22543485997326423,22.54,225.43485997326502,230,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q84,2,q84_2,0.23294513781831772,23.29,232.94513781831853,230,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q84,3,q84_3,0.3010980257365937,30.11,301.09802573659476,300,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q84,4,q84_4,0.3732799043147619,37.33,373.2799043147632,388,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q84,5,q84_5,0.2779686804816452,27.8,277.9686804816462,274,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q84,6,q84_6,0.45677825412516454,45.68,456.77825412516614,464,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q85,1,Joe Biden,0.3794571815536066,37.95,379.45718155360794,400,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q85,2,Donald Trump,0.5016338821631737,50.16,501.6338821631755,484,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q85,3,"Robert Kennedy, Jr.",0.04679428738449634,4.68,46.794287384496506,47,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q85,4,Someone else,0.07211464889872339,7.21,72.11464889872364,69,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q9,1,"Yes, a lot",0.3501483339012207,35.01,350.14833390122146,366,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q9,2,"Yes, a little",0.4281259702480651,42.81,428.12597024806604,435,false,https://verasight-mpsa-2024.tiiny.co
+2024-037_q9,3,No,0.22172569585071414,22.17,221.72569585071463,199,false,https://verasight-mpsa-2024.tiiny.co

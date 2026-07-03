@@ -1,0 +1,22 @@
+{
+  "report_id": "2024-037",
+  "repo_name": "verasight-report-2024-037",
+  "title": "Verasight MPSA Omnibus Survey #2024-037",
+  "wave_id": "2024-037",
+  "survey_id": "2024-037",
+  "source_report_url": "https://verasight-mpsa-2024.tiiny.co",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2024-04-10",
+    "end": "2024-04-15"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 78,
+  "modules": [
+    "Verasight MPSA Omnibus Survey #2024-037, module 1",
+    "Verasight MPSA Omnibus Survey #2024-037, module 2"
+  ]
+}
